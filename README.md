@@ -76,3 +76,8 @@
 ## OTHER:
 * Public API Resources - https://github.com/toddmotto/public-apis?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more
 * Organized Docs for all Popular Web Technologies - https://devdocs.io
+
+
+
+## For Books
+* www.Ebook-dl.com
