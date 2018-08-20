@@ -92,3 +92,4 @@ Flip Click Screensaver - https://fliqlo.com
 3:-- {https://www.thatjsdude.com/}
 4:-- {https://algolint.com/}
 5:-- {https://medium.com/}
+6:-- {https://www.guru99.com/}
