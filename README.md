@@ -14,7 +14,7 @@
 * Ultimate Code Generator - https://webcode.tools/
 
 ## IMAGE RESOURCES:
-* Free Stock Images - https://www.pexels.com
+* Free Stock Images - https://www.pexels.com/
 * Free Stock Images With Great API - https://unsplash.com/
 * Free- Vectors, mockups - https://www.freepik.com
 * Dummy Image Placeholders - https://source.unsplash.com/
