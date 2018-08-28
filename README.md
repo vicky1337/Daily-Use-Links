@@ -27,7 +27,7 @@
 * Code Diff Checker - https://www.diffchecker.com
 
 ## CONVERTERS:
-* ES6+ & JSX Compiler - https://babeljs.io/repl
+* ES6+ & JSX Compiler - https://babeljs.io/repl/
 * Sass Converter - https://www.sassmeister.com/ 		  
 * Less Converter & More - http://www.webtoolkitonline.com   
 * Markdown Editor - https://stackedit.io
