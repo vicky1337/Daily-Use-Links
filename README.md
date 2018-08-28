@@ -62,7 +62,7 @@
 * HTML Entity Lookup - http://entity-lookup.leftlogic.com/
 
 ## RESPONSIVENESS:
-* Device Testing - http://www.responsinator.com
+* Device Testing - http://www.responsinator.com/
 * What's My Browser Size - https://www.webpagefx.com/tools/whats-my-browser-size/
 
 ## WIREFRAME:
