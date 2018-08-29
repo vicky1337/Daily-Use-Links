@@ -66,7 +66,7 @@
 * What's My Browser Size - https://www.webpagefx.com/tools/whats-my-browser-size/
 
 ## WIREFRAME:
-* In Browser Wireframing - https://app.moqups.com
+* In Browser Wireframing - https://app.moqups.com/
 * Very Basic In Browser Wireframing - https://wireframe.cc
 
 ## SPEED TEST:
