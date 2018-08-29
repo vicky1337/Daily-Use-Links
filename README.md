@@ -83,7 +83,7 @@
 * www.Ebook-dl.com
 
 ## ScreenSaver  
-Flip Click Screensaver - https://fliqlo.com
+Flip Click Screensaver - https://fliqlo.com/
 
 ## For Online Tutorials
 
