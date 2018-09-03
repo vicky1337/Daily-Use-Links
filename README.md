@@ -5,7 +5,7 @@
 
 ## GENERATORS:
 * Text Content Generator - http://www.lipsum.com/
-* Favicon Generator - http://tools.dynamicdrive.com/favicon		
+* Favicon Generator - http://tools.dynamicdrive.com/favicon/		
 * Data Generator - https://mockaroo.com/						
 * Mobile Mockup Generator - https://mockuphone.com/
 * Logo Generator - https://www.logaster.com
