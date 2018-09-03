@@ -45,7 +45,7 @@
 * ES6+ Compatibility Table - https://kangax.github.io/compat-table/es6/
 
 ## IN BROWSER CODING:
-* Client Side Code - https://codepen.io
+* Client Side Code - https://codepen.io/
 * Client Side Code - https://jsfiddle.net
 * Client Side Code - http://liveweave.com
 * Server Side Code - https://repl.it
