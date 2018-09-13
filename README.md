@@ -47,7 +47,7 @@
 ## IN BROWSER CODING:
 * Client Side Code - https://codepen.io/
 * Client Side Code - https://jsfiddle.net/
-* Client Side Code - http://liveweave.com
+* Client Side Code - http://liveweave.com/
 * Server Side Code - https://repl.it
 
 ## SNIPPET TOOLS:
