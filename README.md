@@ -67,7 +67,7 @@
 
 ## WIREFRAME:
 * In Browser Wireframing - https://app.moqups.com/
-* Very Basic In Browser Wireframing - https://wireframe.cc
+* Very Basic In Browser Wireframing - https://wireframe.cc/
 
 ## SPEED TEST:
 * Speed & Performance Testing - https://tools.keycdn.com/speed
