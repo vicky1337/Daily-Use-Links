@@ -23,7 +23,7 @@
 
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org
-* Code Optimization Tools - https://codebeautify.org
+* Code Optimization Tools - https://codebeautify.org/
 * Code Diff Checker - https://www.diffchecker.com
 
 ## CONVERTERS:
