@@ -57,7 +57,7 @@
 ## COLOR & DESIGN:
 * Create Color Schemes - https://color.hailpixel.com/
 * Get Color Schemes of Websites - http://stylifyme.com/
-* Create Gradients - https://uigradients.com
+* Create Gradients - https://uigradients.com/
 * CSS Button Generator - http://css3buttongenerator.com 
 * HTML Entity Lookup - http://entity-lookup.leftlogic.com/
 
