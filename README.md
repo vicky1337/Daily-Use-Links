@@ -51,7 +51,7 @@
 * Server Side Code - https://repl.it
 
 ## SNIPPET TOOLS:
-* Snippet Manager - https://gist.github.com
+* Snippet Manager - https://gist.github.com/
 * Snippet Manager - https://pastebin.com
 
 ## COLOR & DESIGN:
