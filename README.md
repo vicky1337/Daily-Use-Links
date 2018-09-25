@@ -48,7 +48,7 @@
 * Client Side Code - https://codepen.io/
 * Client Side Code - https://jsfiddle.net/
 * Client Side Code - http://liveweave.com/
-* Server Side Code - https://repl.it
+* Server Side Code - https://repl.it/
 
 ## SNIPPET TOOLS:
 * Snippet Manager - https://gist.github.com/
