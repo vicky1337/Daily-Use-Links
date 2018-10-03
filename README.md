@@ -19,7 +19,7 @@
 * Free- Vectors, mockups - https://www.freepik.com/
 * Dummy Image Placeholders - https://source.unsplash.com/
 * Dummy Image Placeholders - https://placeholder.com/
-* Free Icons - https://www.iconfinder.com
+* Free Icons - https://www.iconfinder.com/
 
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org
