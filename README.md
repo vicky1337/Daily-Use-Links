@@ -80,7 +80,7 @@
 
 
 ## For Books
-* www.Ebook-dl.com
+* www.Ebook-dl.com/
 
 ## ScreenSaver  
 Flip Click Screensaver - https://fliqlo.com/
