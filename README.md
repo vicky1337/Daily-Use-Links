@@ -81,6 +81,7 @@
 
 ## For HTML TEMPLATES
 * https://templated.co
+* https://html5up.net
 
 
 
