@@ -87,10 +87,14 @@
 
 
 ## For Books
-* www.Ebook-dl.com/
+*  www.Ebook-dl.com/
+*  https://www.udemy.com
 
 ## ScreenSaver  
 Flip Click Screensaver - https://fliqlo.com/
+## For Online Vedio Tutorials
+* https://frontendmasters.com/
+*
 
 ## For Online Tutorials
 
