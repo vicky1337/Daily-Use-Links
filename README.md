@@ -22,7 +22,7 @@
 * Free Icons - https://www.iconfinder.com/
 
 ## CODE OPTIMIZATION:
-* Minify JS & CSS - http://minifier.org
+* Minify JS & CSS - http://minifier.org/
 * Code Optimization Tools - https://codebeautify.org/
 * Code Diff Checker - https://www.diffchecker.com
 
