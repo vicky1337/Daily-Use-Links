@@ -88,7 +88,7 @@
 
 ## For Books
 *  www.Ebook-dl.com/
-*  https://www.udemy.com
+*  https://www.udemy.com/
 
 ## ScreenSaver  
 Flip Click Screensaver - https://fliqlo.com/
