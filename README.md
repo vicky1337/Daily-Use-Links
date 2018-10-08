@@ -82,7 +82,7 @@
 ## For HTML TEMPLATES & Designer Use
 * https://templated.co/
 * https://html5up.net/
-* https://dribbble.com
+* https://dribbble.com/
 * https://www.behance.net
 
 
