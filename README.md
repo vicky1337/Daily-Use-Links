@@ -80,7 +80,7 @@
 * Organized Docs for all Popular Web Technologies - https://devdocs.io
 
 ## For HTML TEMPLATES & Designer Use
-* https://templated.co
+* https://templated.co/
 * https://html5up.net
 * https://dribbble.com
 * https://www.behance.net
