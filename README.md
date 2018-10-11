@@ -24,7 +24,7 @@
 ## CODE OPTIMIZATION:
 * Minify JS & CSS - http://minifier.org/
 * Code Optimization Tools - https://codebeautify.org/
-* Code Diff Checker - https://www.diffchecker.com
+* Code Diff Checker - https://www.diffchecker.com/
 
 ## CONVERTERS:
 * ES6+ & JSX Compiler - https://babeljs.io/repl/
