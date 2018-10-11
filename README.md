@@ -49,7 +49,7 @@
 * Client Side Code - https://jsfiddle.net/
 * Client Side Code - http://liveweave.com/
 * Server Side Code - https://repl.it/
-* Client Side Code - https://coder.com
+* Client Side Code - https://coder.com/
 * Client Side Code - https://codesandbox.io
 
 ## SNIPPET TOOLS:
