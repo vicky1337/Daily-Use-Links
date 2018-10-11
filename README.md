@@ -54,7 +54,7 @@
 
 ## SNIPPET TOOLS:
 * Snippet Manager - https://gist.github.com/
-* Snippet Manager - https://pastebin.com
+* Snippet Manager - https://pastebin.com/
 
 ## COLOR & DESIGN:
 * Create Color Schemes - https://color.hailpixel.com/
