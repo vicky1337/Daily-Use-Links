@@ -108,4 +108,4 @@ Flip Click Screensaver - https://fliqlo.com/
         7:--  {https://www.javascript30.com}
         8:-- {https://www.bitdegree.org}
         9:-- {http://www.java2s.com/}
-        10
+        10:-- {http://exploringjs.com/es6/ }
