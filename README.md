@@ -40,7 +40,7 @@
 * Compress PNG - https://tinypng.com/
 
 ## VALIDATION & COMPATIBILITY:
-* Validate HTML - https://validator.w3.org
+* Validate HTML - https://validator.w3.org/
 * Validate CSS - https://jigsaw.w3.org/css-validator/
 * Check Browser Compatibility - https://caniuse.com/
 * ES6+ Compatibility Table - https://kangax.github.io/compat-table/es6/
