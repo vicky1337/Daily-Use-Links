@@ -109,3 +109,5 @@ Flip Click Screensaver - https://fliqlo.com/
         8:-- {https://www.bitdegree.org}
         9:-- {http://www.java2s.com/}
         10:-- {http://exploringjs.com/es6/ }
+        // For photo shop
+        11:-- https://www.creativebloq.com/photoshop/photoshop-shortcuts-1012966/
