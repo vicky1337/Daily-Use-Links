@@ -6,7 +6,7 @@
 
 ## SEO LINKS
 * https://learning.naukri.com/articles/seo-interview-questions-answers/
-* https://mytasker.com/blog/seo-interview-questions-and-answers
+* https://mytasker.com/blog/seo-interview-questions-and-answers/
 
 ## GENERATORS:
 * Text Content Generator - http://www.lipsum.com/
