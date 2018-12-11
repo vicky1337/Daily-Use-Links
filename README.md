@@ -36,7 +36,7 @@
 * ES6+ & JSX Compiler - https://babeljs.io/repl/
 * Sass Converter - https://www.sassmeister.com/ 		  
 * Less Converter & More - http://www.webtoolkitonline.com   
-* Markdown Editor - https://stackedit.io
+* Markdown Editor - https://stackedit.io/
 * Jade Converter - http://www.html2jade.org/
 
 ## IMAGE COMPRESSION:
