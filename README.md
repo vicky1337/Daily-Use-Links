@@ -3,7 +3,7 @@
 #Online Tools & Resources For Web Developers & Designers
 
 ## MAC ICON COLOUR:
-(*) https://www.deviantart.com/ekliptikz/art/Snow-Leopard-Folder-Colors-162730433
+(*) https://www.deviantart.com/ekliptikz/art/Snow-Leopard-Folder-Colors-162730433/
 
 ## SEO LINKS
 * https://learning.naukri.com/articles/seo-interview-questions-answers/
